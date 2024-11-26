@@ -6,6 +6,13 @@ const bookstore = {
   ],
   orders: [
     { customer: "Alice", bookTitle: "JavaScript Basics", orderDate: "2024-01-15" },
-    { customer: "Bob", bookTitle: "Python for Beginners", orderDate: "2024-01-16" }
+    { customer: "Bob", bookTitle: "Python for Beginners", orderDate: "2024-01-16" },
+    { customer: "Charlie", bookTitle: "JavaScript basics", orderDate: "2024-01-02" },
+    { customer: "Danielle", bookTitle: "Data Structures 101", orderDate: "2024-01-22" },
+    { customer: "Eileen", bookTitle: "Python for Beginners", orderDate: "2024-01-07" },
+    { customer: "Frank", bookTitle: "Data Structures 101", orderDate: "2024-01-03" },
+    { customer: "George", bookTitle: "Data Structures 101", orderDate: "2024-01-08" },
+    { customer: "Helen", bookTitle: "Python for Beginners", orderDate: "2024-01-23" },
+    { customer: "Ivy", bookTitle: "Data Structures 101", orderDate: "2024-01-03" },
   ]
 }
