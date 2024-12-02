@@ -5,7 +5,8 @@ Write a function that takes these two arrays and a book title as parameters. The
 1. Check if the book exists in inventory
 2. If it exists, check if there's enough quantity to fulfill an order
 3. If there's enough quantity, check if there are any pending orders for this book
-4. If there are pending orders, fulfill the oldest order first
+4. If there are pending orders, fulfill those first
+5. To fulfill an order, reduce the quantity in inventory by 1
 5. Return an appropriate message for each scenario
 
 Note: Define the algorithm with comments, and then implement each step with code.
