@@ -1,5 +1,7 @@
 /*
-You're working with a small bookstore's inventory system. The store has two arrays of data: one for books in stock and one for customer orders. Each book has a title, price, and quantity. Each order has a customer name and the book title they want.
+You're working with a small bookstore's inventory system. 
+The store has two arrays of data: one for books in stock and one for customer orders. 
+Each book has a title, price, and quantity. Each order has a customer name and the book title they want.
 Write a function that takes these two arrays and a book title as parameters. The function should:
 
 1. Check if the book exists in inventory
